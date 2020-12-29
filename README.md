@@ -7,9 +7,11 @@ FINALISED
 
 
 ===============================================================================================================================================================
+
+
+
 concept gatheration
  
-
 -> Limitted resources (paid)
 -> natural resources
 -> level based resources (good to have, not must have)
